@@ -1,0 +1,14 @@
+certifi==2019.6.16
+joblib==0.13.2
+mkl-fft==1.0.12
+mkl-random==1.0.2
+mkl-service==2.0.2
+numpy==1.16.4
+Pillow==6.0.0
+scikit-learn==0.21.2
+scipy==1.2.1
+six==1.12.0
+ttkthemes==2.3.0
+wincertstore==0.2
+git+https://github.com/duke-lungmap-team/lungmap-utils.git
+git+https://github.com/duke-lungmap-team/microscopy-analysis-pipeline.git
